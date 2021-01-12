@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AssHT</string>
+    <string name="app_name2">World Landscape HD</string>
+    <string name="contentDescription">TODO</string>
+    <string name="close">Thôi, không tải nữa</string>
+    <string name="small">Chất lượng thấp</string>
+    <string name="medium">Chất lượng thường</string>
+    <string name="large">Chất lượng cao</string>
+</resources>
